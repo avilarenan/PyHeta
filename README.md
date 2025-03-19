@@ -11,7 +11,7 @@ The architecture for scaling machine learning experiments handles multiple diffe
 
 It is important to notice the code structure. For example, if you want to change the model you should look at the train.py file, or if you want to change the data processing method, you should go for the dataprocessor.py.
 
-![alt text](https://github.com/avilarenan/PyHeta/blob/main/assets/architecture.png?raw=true)
+![alt text](https://github.com/avilarenan/PyHeta/blob/main/assets/code_structure.png?raw=true)
 
 
 ## Setup
