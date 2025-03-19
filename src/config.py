@@ -1,0 +1,6 @@
+base = "/home/ubuntu"
+experiments_base_path = f"{base}/repos/FARM_LSTM/forecasting/experiments"
+experiment_starting_name_folders = "experiments"
+logs_base_path = f"{base}/repos/FARM_LSTM/forecasting/logs"
+credentials_file = f"{base}/repos/FARM_LSTM/forecasting/credentials.json"
+working_base_path = f"{base}/repos/FARM_LSTM/forecasting/scripts"
