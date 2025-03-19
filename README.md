@@ -5,13 +5,13 @@ Large scale time series experimenting framework for data processing and deep lea
 
 The architecture for scaling machine learning experiments handles multiple different servers and leverages third-party software such as Relational DataBases or Message Brokers.
 
-![alt text](https://github.com/avilarenan/PyHeta/blob/main/docs/architecture.png?raw=true)
+![alt text](https://github.com/avilarenan/PyHeta/blob/main/assets/architecture.png?raw=true)
 
 ## Code structure
 
 It is important to notice the code structure. For example, if you want to change the model you should look at the train.py file, or if you want to change the data processing method, you should go for the dataprocessor.py.
 
-![alt text](https://github.com/avilarenan/PyHeta/blob/main/docs/architecture.png?raw=true)
+![alt text](https://github.com/avilarenan/PyHeta/blob/main/assets/architecture.png?raw=true)
 
 
 ## Setup
@@ -84,6 +84,6 @@ You can track progress similar to the data processing launch process.
 Thanks to Escola Politécnica da Universidade de São Paulo, and thanks to BTG Pactual for supporting the work.
 
 <p float="left">
-    <img src="https://github.com/avilarenan/PyHeta/blob/main/docs/Logo-Escola-Polit%C3%A9cnica-Minerva_Logo-Escola-Polit%C3%A9cnica-Minerva-01-scaled.jpeg" width="110">
-    <img src="https://github.com/avilarenan/PyHeta/blob/main/docs/1200px-Btg-logo-blue.svg.png" width="230">
+    <img src="https://github.com/avilarenan/PyHeta/blob/main/assets/Logo-Escola-Polit%C3%A9cnica-Minerva_Logo-Escola-Polit%C3%A9cnica-Minerva-01-scaled.jpeg" width="110">
+    <img src="https://github.com/avilarenan/PyHeta/blob/main/assets/1200px-Btg-logo-blue.svg.png" width="230">
 </p>
